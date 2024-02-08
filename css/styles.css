@@ -488,6 +488,11 @@ progress {
   display: none !important;
 }
 
+.ul-ex {
+  display: table;
+  margin: 0 auto;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
